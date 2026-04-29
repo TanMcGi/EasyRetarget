@@ -1,0 +1,19 @@
+# User-specified
+AddonZips/
+logs/
+FutureFeatures_EasyAdjustments.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
